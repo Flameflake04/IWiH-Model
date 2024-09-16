@@ -1,0 +1,14 @@
+seaborn
+numpy
+textract
+spacy
+nameparser
+request
+genderize
+pandas
+python
+scikit-learn
+tensorflow
+regex
+keras
+openai
